@@ -77,7 +77,7 @@ The report includes:
 
 ## 📸 Project Preview
 
-![Linux Log Analyzer Output](images/log-analyzer-output.png)
+<img width="2560" height="1440" alt="kali2" src="https://github.com/user-attachments/assets/0fdcfa76-73d4-4257-b753-6bc902d2b80b" />
 
 ---
 
